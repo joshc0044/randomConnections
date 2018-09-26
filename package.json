@@ -1,0 +1,26 @@
+{
+  "name": "randomConnections",
+  "version": "1.0.0",
+  "description": "simple node.js example: basic server where each client connecting broadcasts event which causes point to be randomly drawn on screen",
+  "main": "server.js",
+  "dependencies": {
+    "p5-manager": "^0.4.2",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshc0044/randomConnections.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshc0044/randomConnections/issues"
+  },
+  "homepage": "https://github.com/joshc0044/randomConnections#readme"
+}
