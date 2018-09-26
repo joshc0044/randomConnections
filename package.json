@@ -4,7 +4,6 @@
   "description": "simple node.js example: basic server where each client connecting broadcasts event which causes point to be randomly drawn on screen",
   "main": "server.js",
   "dependencies": {
-    "p5-manager": "^0.4.2",
     "socketio": "^1.0.0"
   },
   "devDependencies": {},
